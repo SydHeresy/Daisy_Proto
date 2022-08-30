@@ -1211,6 +1211,7 @@
     )
   )
 
+
   (junction (at 187.96 86.36) (diameter 0) (color 0 0 0 0)
     (uuid 06b25f56-4894-4a92-9a73-78a848d8e3a8)
   )
@@ -2895,28 +2896,28 @@
       (reference "#PWR0188") (unit 1) (value "GNDA") (footprint "")
     )
     (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/1f5cadfb-f08f-4413-97f9-ef4c93255f31"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
+      (reference "#PWR0189") (unit 1) (value "GNDA") (footprint "")
     )
     (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/34b67d2d-2a42-4e29-b70e-a823e0b4d13d"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
-    )
-    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/3a7e1cc8-577c-4673-b4bc-4c6c8c9d872d"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
-    )
-    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/49bee4e6-73dc-4d59-8efd-ad649b8e6419"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
-    )
-    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/4cf2dd08-4103-4032-812a-958ad03d0d23"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
-    )
-    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/4eb6e05e-7069-4c11-afa5-001cbeb4c0e6"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
-    )
-    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/7cbffec3-4ac3-46d6-a2f2-a642bdfda5d6"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
+      (reference "#PWR0190") (unit 1) (value "GNDA") (footprint "")
     )
     (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/e76d743b-1080-40e7-bed1-a7bcc44b3141"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
+      (reference "#PWR0191") (unit 1) (value "GNDA") (footprint "")
+    )
+    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/3a7e1cc8-577c-4673-b4bc-4c6c8c9d872d"
+      (reference "#PWR0192") (unit 1) (value "GNDA") (footprint "")
+    )
+    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/7cbffec3-4ac3-46d6-a2f2-a642bdfda5d6"
+      (reference "#PWR0193") (unit 1) (value "GNDA") (footprint "")
+    )
+    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/4cf2dd08-4103-4032-812a-958ad03d0d23"
+      (reference "#PWR0194") (unit 1) (value "GNDA") (footprint "")
+    )
+    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/49bee4e6-73dc-4d59-8efd-ad649b8e6419"
+      (reference "#PWR0195") (unit 1) (value "GNDA") (footprint "")
+    )
+    (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/4eb6e05e-7069-4c11-afa5-001cbeb4c0e6"
+      (reference "#PWR0196") (unit 1) (value "GNDA") (footprint "")
     )
     (path "/58123c78-c81f-4b1c-9b3e-5c2bd4ec2134"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
