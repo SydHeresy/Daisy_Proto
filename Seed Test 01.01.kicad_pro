@@ -392,6 +392,15 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -411,6 +420,10 @@
     [
       "472e7a89-b298-4a75-9ffa-0715f9b55313",
       "Analog IO"
+    ],
+    [
+      "dd979855-b3cc-4801-a780-effd8b08fff5",
+      "Control Voltage"
     ]
   ],
   "text_variables": {}
