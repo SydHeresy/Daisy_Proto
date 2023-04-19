@@ -3233,7 +3233,7 @@
       (reference "R6") (unit 1) (value "4.7R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/7975bbff-a0ec-44ea-a578-e030126d6fca/9d20870b-6dbf-4de0-9e55-669f5adbb944"
-      (reference "R7") (unit 1) (value "4.7R") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R7") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/f02acd89-578f-47dc-9ae0-e44650466fe6"
       (reference "R8") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -3436,11 +3436,11 @@
     (path "/7975bbff-a0ec-44ea-a578-e030126d6fca/086e4b25-56d1-49c4-8015-6659ad86e630"
       (reference "U2") (unit 1) (value "AP2204K-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
-    (path "/7975bbff-a0ec-44ea-a578-e030126d6fca/dbbbc723-2663-4a61-b97e-b8d805e4bdaf"
-      (reference "U3") (unit 1) (value "LM1117-5.0") (footprint "Package_TO_SOT_SMD:SOT-223")
+    (path "/7975bbff-a0ec-44ea-a578-e030126d6fca/0c2993a5-2551-4f11-a676-3cde1862fd98"
+      (reference "U3") (unit 1) (value "LM78L05_SOT") (footprint "Package_TO_SOT_SMD:SOT-223")
     )
     (path "/7975bbff-a0ec-44ea-a578-e030126d6fca/312e0e69-a16e-462b-a795-6fa31fb7c888"
-      (reference "U4") (unit 1) (value "LM4040DBZ-5") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U4") (unit 1) (value "LM4040DBZ-10") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/472e7a89-b298-4a75-9ffa-0715f9b55313/73b7d793-0bc3-44cc-9b0c-aed057253fa0"
       (reference "U5") (unit 1) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
